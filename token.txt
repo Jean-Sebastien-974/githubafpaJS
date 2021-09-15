@@ -1,0 +1,4 @@
+token pour githubafpaJS
+
+username: Jean-Sebastien-974
+password: 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
